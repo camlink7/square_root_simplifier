@@ -1,0 +1,1 @@
+Download all the files in the "Square Root Simplifier (latest build)" folder. Then, unpack all the files into the same folder on your machine. Enjoy!
